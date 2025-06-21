@@ -60,7 +60,6 @@ Provides a simple login and registration interface to secure user access.
 - Rheymond D. Alcantara
 - Ivan L. Codilan
 - Erlyn Ann F. Bayona
-- Jonil M. Osorio
 - Jayson L. Baldovino
 
 ## Adviser
