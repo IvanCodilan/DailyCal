@@ -1,6 +1,6 @@
 # DailyCals
 
-![Calorie Tracker Banner](https://github.com/IvanCodilan/DailyCal/issues/1#issue-3164870648)
+![Calorie Tracker Banner](![Image](https://github.com/user-attachments/assets/56408de1-893f-4a40-81c4-d55154fb6aa0))
 
 **DailyCals** is a calorie and activity tracking Android application. It helps users log meals, exercises, and compute their BMI while tracking nutritional insights. Built in Java, the app offers an intuitive interface and offline support using SQLite.
 
