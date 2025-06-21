@@ -38,9 +38,11 @@ Browse historical data of both food and activity logs for better trend tracking.
 Compute your Body Mass Index using your weight and height inputs.  
 > Activity: `BMIActivity.java`
 
-### 6. Login System
-Provides a simple login interface to secure user access.  
+### 6. Login System and Registration System
+Provides a simple login and registration interface to secure user access.  
 > Activity: `LoginActivity.java`
+![Login](https://github.com/user-attachments/assets/7d4a8280-6ac8-4d45-b6cc-b6713ae6c78a)
+![Registration](https://github.com/user-attachments/assets/43f8c308-2753-41ec-8b85-aaa8d761e185)
 
 ### 7. SQLite Local Database
 All records are stored and retrieved locally using a structured SQLite database.  
