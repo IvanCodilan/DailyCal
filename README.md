@@ -57,7 +57,7 @@ Provides a simple login and registration interface to secure user access.
 
 ## Demo Video
 
-###Click the link to watch: https://youtu.be/UtBHqBGrG8w?si=m3jUC-uG1nWzzPJl
+Click the link to watch: https://youtu.be/UtBHqBGrG8w?si=m3jUC-uG1nWzzPJl
 
 ## Developer
 - Rheymond D. Alcantara
