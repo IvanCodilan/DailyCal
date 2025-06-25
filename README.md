@@ -55,6 +55,9 @@ Provides a simple login and registration interface to secure user access.
 ![Login](https://github.com/user-attachments/assets/7d4a8280-6ac8-4d45-b6cc-b6713ae6c78a)
 ![Registration](https://github.com/user-attachments/assets/43f8c308-2753-41ec-8b85-aaa8d761e185)
 
+## Demo Video
+
+https://www.youtube.com/watch?v=UtBHqBGrG8w
 
 ## Developer
 - Rheymond D. Alcantara
